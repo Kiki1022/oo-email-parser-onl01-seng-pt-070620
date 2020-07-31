@@ -1,3 +1,4 @@
+'require pry'
 class EmailAddressParser 
 
 #that accepts a string of unformatted 
